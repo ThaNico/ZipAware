@@ -12,7 +12,7 @@ For example, this is the type of links that ZipAware blocks :
 
 - [https://github.com∕kubernetes∕kubernetes∕archive∕refs∕tags∕@procrastination.zip](https://github.com∕kubernetes∕kubernetes∕archive∕refs∕tags∕@procrastination.zip)
 
-![Screenshot_7](https://github.com/ThaNico/ZipAware/assets/9906385/2a2a9b5b-aa29-43a4-8903-23df1039ec24)
+![demo](https://github.com/ThaNico/ZipAware/assets/9906385/b56bbaee-9569-4bad-9b15-ab087ad8ccc9)
 
 
 By clicking you will not be going to github.com but to [procrastination.zip](https://procrastination.zip) and that website could easily deliver an infected file (fortunately I own it as a joke :) ).
@@ -29,11 +29,6 @@ By clicking you will not be going to github.com but to [procrastination.zip](htt
   - to allow the user to bypass the block if that's needed (but no idea on how to do that with declarativeNetRequest)
   - to display some explanation on the exact url that was blocked
 - Why not add an opt-in mechanism to report those urls somewhere
-
-## Usage
-
-There is no usage, that's automatic, just install it! \
-Although if the extension blocks something you still want to access then there's no bypass mechanism for now so you'll need to disable it if you want to navigate.
 
 ## Contribution
 
