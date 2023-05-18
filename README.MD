@@ -7,7 +7,13 @@ It blocks access to such websites and provides a warning to the user.
 
 This idea came after reading [Bobbyr's medium article](https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5) about the dangers of the zip tld.\
 When a user tries to access a website with a .zip TLD and a @ operator, ZipAware intervenes to prevent access to the website. \
-Instead, a notification is displayed to alert the user that the website has been blocked.
+Instead, a notification is displayed to alert the user that the website has been blocked. \
+ \
+For example, this is the type of links that ZipAware blocks :
+
+- [https://github.com∕kubernetes∕kubernetes∕archive∕refs∕tags∕@procrastination.zip](https://github.com∕kubernetes∕kubernetes∕archive∕refs∕tags∕@procrastination.zip)
+
+By clicking you will not be going to github.com but to [procrastination.zip](https://procrastination.zip) and that website could easily deliver an infected file (fortunately I own it as a joke :) ).
 
 ## Features
 
@@ -30,7 +36,7 @@ Although if the extension blocks something you still want to access then there's
 ## Contribution
 
 I have very low to no knowledge about chrome extensions, contributions are welcome! \
-If you have any ideas, suggestions, or bug reports, please feel free to open an issue or submit a pull request. \
+If you have any ideas, suggestions, or bug reports, please feel free to open an issue or submit a pull request.
 
 ## License
 
