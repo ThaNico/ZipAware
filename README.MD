@@ -12,6 +12,9 @@ For example, this is the type of links that ZipAware blocks :
 
 - [https://github.com∕kubernetes∕kubernetes∕archive∕refs∕tags∕@procrastination.zip](https://github.com∕kubernetes∕kubernetes∕archive∕refs∕tags∕@procrastination.zip)
 
+![Screenshot_7](https://github.com/ThaNico/ZipAware/assets/9906385/2a2a9b5b-aa29-43a4-8903-23df1039ec24)
+
+
 By clicking you will not be going to github.com but to [procrastination.zip](https://procrastination.zip) and that website could easily deliver an infected file (fortunately I own it as a joke :) ).
 
 ## Features
