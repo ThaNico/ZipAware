@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "ZipAware",
   "version": "1.0.0",
-  "description": "Warn users when accessing .zip URLs that can cause unexpected behavior.",
+  "description": "Blocks certain .zip URLs that can cause unexpected behavior and notifies you.",
   "icons": {
     "16": "icons/zipicon16.png",
     "48": "icons/zipicon48.png",
