@@ -1,6 +1,7 @@
 # ZipAware
 
-ZipAware is a Chrome extension that helps protect users from accessing certain websites with a .zip TLD.
+ZipAware is a Chrome extension that helps protect users from accessing certain websites with a .zip TLD. \
+21/05/2023: Now published on the [chrome webstore](https://chrome.google.com/webstore/detail/zipaware/maplikgnhdhlacifnohpjdmkmfpnagfe)!
 
 ## Description
 
